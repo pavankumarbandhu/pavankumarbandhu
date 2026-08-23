@@ -1,32 +1,38 @@
 ````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:0077B6,100:6C5CE7&height=220&section=header&text=PAVAN%20KUMAR%20B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NETWORKING%20ENGINEER%20%7C%20NETWORK%20VALIDATION%20%7C%20LINUX%20%7C%20PYTHON&descAlignY=60&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,40:0077B6,80:6C5CE7,100:8E44AD&height=230&section=header&text=PAVAN%20KUMAR%20B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=NETWORKING%20ENGINEER%20%7C%20NETWORK%20VALIDATION%20%7C%20SERVER%20NETWORKING&descAlignY=60&descSize=16&animation=fadeIn"/>
 
-# 🌐 PAVAN KUMAR B
+<br>
 
-### **Networking Engineer • Network Validation • Server Networking • Automation**
+**🌐 NETWORKING ENGINEER**  
+**🧪 NETWORK VALIDATION**  
+**🖥️ SERVER NETWORKING**  
+**🐧 LINUX**  
+**🐍 PYTHON AUTOMATION**
 
-<p>
-<img src="https://img.shields.io/badge/Network%20Engineering-0077B6?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network%20Validation-00B894?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<br>
 
-<p>
-📍 Bengaluru, Karnataka, India &nbsp; | &nbsp;
-📧 <b>pavankumarbandhu@gmail.com</b>
-</p>
+<img src="https://img.shields.io/badge/NETWORKING-0077B6?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/VALIDATION-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p>
+<br><br>
+
+📍 **Bengaluru, Karnataka, India** &nbsp;&nbsp; | &nbsp;&nbsp;
+📧 **pavankumarbandhu@gmail.com** &nbsp;&nbsp; | &nbsp;&nbsp;
+📱 **+91 9047215910**
+
+<br><br>
+
 <a href="mailto:pavankumarbandhu@gmail.com">
-<img src="https://img.shields.io/badge/📧%20CONTACT%20ME-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
 </div>
 
@@ -34,248 +40,348 @@
 
 <div align="center">
 
-## 🚀 NETWORKING • VALIDATION • TROUBLESHOOTING • AUTOMATION
+## **PROFESSIONAL PROFILE**
 
 </div>
 
+<table>
+<tr>
+<td width="65%">
+
+**Networking & Validation Engineer** with professional experience in
+**Ethernet validation, server networking, network troubleshooting,
+performance testing, Linux and Python automation.**
+
+Experienced in validating networking features on server platforms,
+performing throughput and latency analysis, network stress testing,
+reliability testing, platform bring-up and system-level debugging.
+
+</td>
+
+<td width="35%" align="center">
+
+**CORE FOCUS**
+
+🌐 Networking  
+🧪 Validation  
+🔧 Troubleshooting  
+🖥️ Servers  
+🐧 Linux  
+🐍 Python  
+
+</td>
+</tr>
+</table>
+
 ---
 
-# 👨‍💻 PROFESSIONAL PROFILE
+<div align="center">
 
-I am a **Networking & Validation Engineer** with professional experience
-in **server platforms, Ethernet/networking validation, network
-troubleshooting, Linux and Python automation**.
+## **CORE EXPERTISE**
 
-My work focuses on validating networking features, analyzing
-performance, troubleshooting connectivity issues and supporting
-server platform validation.
+</div>
 
-### 🔹 What I Work With
+<table>
+<tr>
+<td align="center" width="25%">
 
-| 🌐 Networking | 🧪 Validation | 💻 Systems | 🤖 Automation |
-|:---:|:---:|:---:|:---:|
-| Ethernet | Stress Testing | Linux | Python |
-| TCP/IP | Throughput | Server Platforms | Shell |
-| Switching | Latency | Platform Bring-up | Automation |
-| Routing | Reliability | BIOS/BMC | Data Analysis |
-| Troubleshooting | Performance | Debugging | Scripting |
+### 🌐
+**NETWORKING**
+
+TCP/IP  
+Ethernet  
+Switching  
+Routing  
+VLAN  
+Troubleshooting
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧪
+**VALIDATION**
+
+Ethernet Testing  
+Stress Testing  
+Throughput  
+Latency  
+Reliability  
+Performance
+
+</td>
+
+<td align="center" width="25%">
+
+### 🖥️
+**SYSTEMS**
+
+Linux  
+Server Platforms  
+Platform Bring-up  
+BIOS  
+BMC  
+Debugging
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+**AUTOMATION**
+
+Python  
+Shell Scripting  
+Test Automation  
+Log Analysis  
+Data Analysis  
+Reporting
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💼 PROFESSIONAL EXPERIENCE
+<div align="center">
 
-## 🔵 Validation Engineer
+## **💼 PROFESSIONAL EXPERIENCE**
 
-### **Intel Server Platform Environment**
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🔵
+**VALIDATION ENGINEER**
+
+**Intel Server Platform Environment**
+
 **Aug 2023 – Present**
 
-> Working on server platform and Ethernet/networking validation
-> activities.
+</td>
 
-### 🔧 Key Responsibilities
+<td width="75%">
 
-- 🌐 Ethernet and networking feature validation
-- 📊 Network throughput analysis
-- ⚡ Latency validation
-- 🧪 Network stress testing
-- 🔄 Reliability testing
-- 🐍 Python and Linux scripting for automation
-- 🖥️ Server platform bring-up
-- ⚙️ BIOS/BMC flashing and configuration
-- 🔍 System-level debugging
-- 🧩 JTAG and trace-tool based debugging
-- 🤝 Cross-functional collaboration
-- 📋 Jira issue tracking
-- 📚 Validation documentation
+**Key Responsibilities**
 
-### 🧪 Validation Areas
+| Area | Experience |
+|---|---|
+| 🌐 Networking | Ethernet & Networking Feature Validation |
+| 📊 Performance | Throughput & Latency Analysis |
+| 🧪 Testing | Stress & Reliability Testing |
+| 🐍 Automation | Python & Linux Scripting |
+| 🖥️ Platform | Server Platform Bring-up |
+| ⚙️ Configuration | BIOS / BMC Flashing & Configuration |
+| 🔍 Debugging | System-Level Debugging |
+| 🧩 Tools | JTAG & Trace Tools |
+| 📋 Management | Jira Issue Tracking |
+| 📚 Documentation | Validation Reports & Process Documentation |
 
-```text
-                 SERVER PLATFORM
-                        │
-             ┌──────────┴──────────┐
-             │                     │
-        NETWORKING              PLATFORM
-             │                     │
-      ┌──────┼──────┐        ┌─────┼─────┐
-      │      │      │        │     │     │
-   Ethernet Stress  Perf    BIOS  BMC  Bring-up
-      │      │      │
-      └──────┼──────┘
-             │
-        Data Analysis
-             │
-        Root Cause
-             │
-       Final Validation
-````
+</td>
+</tr>
 
----
+<tr>
+<td width="25%" align="center">
 
-# 🟢 NETWORKING ENGINEER
+### 🟢
+**NETWORKING ENGINEER**
 
-### **TeamLease Services Limited**
+**TeamLease Services Limited**
 
 **Aug 2022 – Feb 2023**
 
-### 🔧 Responsibilities
+</td>
 
-* 🌐 Configured and monitored enterprise network infrastructure
-* 🔍 Troubleshot connectivity problems
-* ⚡ Investigated latency issues
-* 📦 Troubleshot packet-loss problems
-* 🎫 Managed service requests and issues
-* 🤝 Coordinated with customers and internal teams
-* 📚 Maintained support documentation
-* 📞 Provided technical support through calls, emails and tickets
+<td width="75%">
+
+**Key Responsibilities**
+
+| Area | Experience |
+|---|---|
+| 🌐 Infrastructure | Enterprise Network Configuration & Monitoring |
+| 🔧 Troubleshooting | Network Connectivity Issues |
+| ⚡ Performance | Latency Troubleshooting |
+| 📦 Reliability | Packet-Loss Investigation |
+| 🎫 Support | Service Request Resolution |
+| 🤝 Collaboration | Customer & Internal Team Coordination |
+| 📚 Documentation | Network Support Documentation |
+| 📞 Communication | Technical Customer Support |
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 NETWORKING SKILLS
-
 <div align="center">
 
-## 🌐 NETWORKING FUNDAMENTALS
+## **🌐 NETWORKING KNOWLEDGE**
 
 </div>
 
-### Core Concepts
+<table>
+<tr>
+<th width="25%">🌐 FUNDAMENTALS</th>
+<th width="25%">🔀 SWITCHING</th>
+<th width="25%">🧭 ROUTING</th>
+<th width="25%">🔧 TROUBLESHOOTING</th>
+</tr>
 
-```text
-OSI MODEL
-TCP/IP MODEL
+<tr>
+<td>
+
+**OSI Model**
+
+**TCP/IP Model**
+
 IPv4 / IPv6
-MAC ADDRESS
-ARP
-ICMP
+
 TCP / UDP
-PORTS & SOCKETS
+
+MAC Address
+
+ARP
+
+ICMP
+
 DNS
+
 DHCP
+
 NAT
-SUBNETTING
+
+Subnetting
+
 CIDR
+
 MTU / MSS
-UNICAST / MULTICAST / BROADCAST
-```
+
+Ports & Sockets
+
+</td>
+
+<td>
+
+Ethernet
+
+MAC Address Table
+
+VLAN
+
+Access Port
+
+Trunk Port
+
+802.1Q
+
+Native VLAN
+
+STP
+
+RSTP
+
+EtherChannel
+
+LACP
+
+Broadcast Domain
+
+Inter-VLAN
+
+</td>
+
+<td>
+
+Routing Tables
+
+Static Routing
+
+Default Routing
+
+Inter-VLAN Routing
+
+Route Selection
+
+Routing Metrics
+
+OSPF Fundamentals
+
+BGP Fundamentals
+
+</td>
+
+<td>
+
+Connectivity
+
+IP Configuration
+
+Gateway
+
+DNS
+
+Routing
+
+VLAN
+
+Packet Loss
+
+Latency
+
+TCP
+
+Interface Issues
+
+Packet Analysis
+
+Root Cause Analysis
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🔀 SWITCHING
+## **🐧 LINUX NETWORKING**
 
 </div>
 
-| Concept      | Knowledge |
-| ------------ | --------- |
-| Ethernet     | ⭐⭐⭐⭐⭐     |
-| MAC Address  | ⭐⭐⭐⭐      |
-| VLAN         | ⭐⭐⭐⭐      |
-| Access Port  | ⭐⭐⭐⭐      |
-| Trunk Port   | ⭐⭐⭐⭐      |
-| 802.1Q       | ⭐⭐⭐       |
-| STP          | ⭐⭐⭐       |
-| RSTP         | ⭐⭐⭐       |
-| EtherChannel | ⭐⭐⭐       |
-| LACP         | ⭐⭐⭐       |
+<table>
+<tr>
+<th>Area</th>
+<th>Skills</th>
+</tr>
 
----
+<tr>
+<td>🌐 Network Configuration</td>
+<td>Interfaces • IP Addressing • Routing</td>
+</tr>
 
-<div align="center">
+<tr>
+<td>🔍 Troubleshooting</td>
+<td>Connectivity • DNS • TCP/UDP • Sockets</td>
+</tr>
 
-## 🧭 ROUTING
+<tr>
+<td>📦 Packet Analysis</td>
+<td>tcpdump • Network Traffic Analysis</td>
+</tr>
 
-</div>
+<tr>
+<td>🔐 System Networking</td>
+<td>SSH • Firewall Basics • Network Services</td>
+</tr>
 
-```text
-ROUTING
-   │
-   ├── Routing Tables
-   │
-   ├── Static Routing
-   │
-   ├── Default Routing
-   │
-   ├── Inter-VLAN Routing
-   │
-   ├── OSPF Fundamentals
-   │
-   ├── BGP Fundamentals
-   │
-   ├── Route Selection
-   │
-   └── Routing Metrics
-```
+</table>
 
----
+<br>
 
-<div align="center">
-
-## 🔧 NETWORK TROUBLESHOOTING
-
-</div>
-
-### Troubleshooting Areas
-
-| Problem         | Analysis            |
-| --------------- | ------------------- |
-| 🔴 Connectivity | Ping / IP / Gateway |
-| 🟠 Packet Loss  | Interface / Network |
-| 🟡 Latency      | RTT / Path Analysis |
-| 🔵 DNS          | DNS Resolution      |
-| 🟣 Routing      | Routing Table       |
-| 🟢 VLAN         | VLAN / Trunk        |
-| ⚫ TCP           | Connections / Ports |
-
-### Troubleshooting Method
-
-```text
-        ISSUE
-          │
-          ▼
-   Identify Problem
-          │
-          ▼
-   Check Connectivity
-          │
-          ▼
-     Check IP/ARP
-          │
-          ▼
-    Check Routing
-          │
-          ▼
-      Check DNS
-          │
-          ▼
-   Capture Packets
-          │
-          ▼
-   Root Cause Analysis
-          │
-          ▼
-       Resolution
-```
-
----
-
-# 🐧 LINUX NETWORKING
-
-### Linux Skills
-
-* Network Interfaces
-* IP Configuration
-* Routing
-* DNS
-* SSH
-* TCP/UDP
-* Socket Analysis
-* Packet Capture
-* Firewall Basics
-* Network Troubleshooting
-
-### Useful Commands
+**Common Commands**
 
 ```bash
 ip addr
@@ -288,7 +394,6 @@ ping 8.8.8.8
 traceroute google.com
 
 nslookup google.com
-
 dig google.com
 
 ss -tulnp
@@ -296,282 +401,386 @@ ss -tulnp
 tcpdump -i eth0
 
 curl -I https://example.com
-```
+````
 
 ---
-
-# 🐍 PYTHON & AUTOMATION
-
-### Python Focus
-
-```text
-Python
-   │
-   ├── Network Health Checks
-   ├── Ping Automation
-   ├── Latency Monitoring
-   ├── Packet Loss Monitoring
-   ├── Log Analysis
-   ├── Network Testing
-   └── Validation Automation
-```
-
-### Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
----
-
-# 📊 NETWORK PERFORMANCE & VALIDATION
-
-My professional validation experience includes:
-
-### 📈 Performance
-
-* Throughput Testing
-* Latency Testing
-* Performance Analysis
-* Reliability Testing
-
-### 🧪 Validation
-
-* Ethernet Validation
-* Network Stress Testing
-* Feature Validation
-* Regression Testing
-* Platform Validation
-
-### 🔍 Debugging
-
-* Failure Analysis
-* Root Cause Analysis
-* System-Level Debugging
-* Issue Tracking
-* Validation Reporting
-
----
-
-# 🔬 NETWORK VALIDATION FLOW
-
-```text
-┌──────────────────────┐
-│     REQUIREMENT      │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│      TEST PLAN       │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│  TEST ENVIRONMENT    │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│   TEST EXECUTION     │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│ PERFORMANCE ANALYSIS │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│   ISSUE / FAILURE    │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│   ROOT CAUSE         │
-│     ANALYSIS         │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│  REGRESSION TESTING  │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│   FINAL VALIDATION   │
-└──────────────────────┘
-```
-
----
-
-# 🛠️ TOOLS & TECHNOLOGIES
 
 <div align="center">
 
-### 🌐 Networking
+## **🐍 PYTHON & NETWORK AUTOMATION**
 
-<img src="https://img.shields.io/badge/Ethernet-FF6B35?style=for-the-badge"/>
+</div>
+
+<table>
+<tr>
+<th>Technology</th>
+<th>Application</th>
+</tr>
+
+<tr>
+<td>🐍 <b>Python</b></td>
+<td>Network validation and automation</td>
+</tr>
+
+<tr>
+<td>💻 <b>Shell Scripting</b></td>
+<td>Linux automation and system tasks</td>
+</tr>
+
+<tr>
+<td>📡 <b>Network Monitoring</b></td>
+<td>Connectivity and latency checks</td>
+</tr>
+
+<tr>
+<td>📊 <b>Data Analysis</b></td>
+<td>Test results and performance analysis</td>
+</tr>
+
+<tr>
+<td>📋 <b>Log Analysis</b></td>
+<td>Failure investigation and debugging</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## **🧪 NETWORK VALIDATION**
+
+</div>
+
+<table>
+<tr>
+<th>Validation Area</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td>🌐 Ethernet Validation</td>
+<td>Networking feature validation</td>
+</tr>
+
+<tr>
+<td>📈 Throughput Testing</td>
+<td>Network performance measurement</td>
+</tr>
+
+<tr>
+<td>⚡ Latency Testing</td>
+<td>Network response and performance analysis</td>
+</tr>
+
+<tr>
+<td>🧪 Stress Testing</td>
+<td>Network behavior under load</td>
+</tr>
+
+<tr>
+<td>🔄 Reliability Testing</td>
+<td>Stability and long-duration validation</td>
+</tr>
+
+<tr>
+<td>🔍 Root Cause Analysis</td>
+<td>Failure investigation and debugging</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## **📊 VALIDATION WORKFLOW**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">📋<br><b>Requirement</b></td>
+<td>→</td>
+<td align="center">📝<br><b>Test Plan</b></td>
+<td>→</td>
+<td align="center">⚙️<br><b>Setup</b></td>
+<td>→</td>
+<td align="center">🧪<br><b>Execute</b></td>
+<td>→</td>
+<td align="center">📊<br><b>Analyze</b></td>
+<td>→</td>
+<td align="center">🔍<br><b>Debug</b></td>
+<td>→</td>
+<td align="center">✅<br><b>Validate</b></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## **🔧 TROUBLESHOOTING APPROACH**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">🔴<br><b>Identify</b></td>
+<td>→</td>
+<td align="center">🔎<br><b>Investigate</b></td>
+<td>→</td>
+<td align="center">📡<br><b>Analyze</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>Root Cause</b></td>
+<td>→</td>
+<td align="center">🔧<br><b>Fix</b></td>
+<td>→</td>
+<td align="center">✅<br><b>Verify</b></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## **🚀 FEATURED PROJECTS**
+
+</div>
+
+<table>
+<tr>
+<th width="30%">Project</th>
+<th width="45%">Description</th>
+<th width="25%">Focus</th>
+</tr>
+
+<tr>
+<td>
+
+### 🌐 Network Troubleshooting Lab
+
+</td>
+
+<td>
+
+Practical networking scenarios covering
+connectivity, DNS, routing, VLAN,
+packet loss and latency.
+
+</td>
+
+<td>
+
+`Networking`
+`Troubleshooting`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🐍 Python Network Monitor
+
+</td>
+
+<td>
+
+Python-based network monitoring project
+for connectivity, latency and
+basic network health checks.
+
+</td>
+
+<td>
+
+`Python`
+`Automation`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📊 Network Performance Testing
+
+</td>
+
+<td>
+
+Practical testing focused on throughput,
+latency, packet loss and reliability.
+
+</td>
+
+<td>
+
+`Performance`
+`Validation`
+
+</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## **🛠️ TECHNICAL TOOLKIT**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**NETWORKING**
+
+<img src="https://img.shields.io/badge/Ethernet-0077B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TCP%2FIP-0077B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux%20Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VLAN-0077B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Routing-0077B6?style=for-the-badge"/>
 
-### 💻 Systems & Development
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<tr>
+<td align="center">
+
+**PROGRAMMING & SYSTEMS**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-### 🔍 Validation & Debugging
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/JTAG-6C5CE7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Trace%20Tools-E84393?style=for-the-badge"/>
+<tr>
+<td align="center">
+
+**TOOLS**
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-### 📋 Productivity
-
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/KVM-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JTAG-6C5CE7?style=for-the-badge"/>
 
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-## 🔹 01 — Network Troubleshooting Lab
-
-**Objective:** Practice real-world network troubleshooting scenarios.
-
-### Topics
-
-* IP Configuration
-* Connectivity
-* DNS
-* Routing
-* VLAN
-* Packet Loss
-* Latency
-
-**Status:** 🟢 Learning / Building
+</td>
+</tr>
+</table>
 
 ---
-
-## 🔹 02 — Python Network Monitor
-
-**Objective:** Build a simple Python-based network health monitor.
-
-### Features
-
-* Ping monitoring
-* Latency measurement
-* Packet-loss detection
-* Device availability
-* Basic reporting
-
-**Status:** 🟡 In Progress
-
----
-
-## 🔹 03 — Network Performance Testing
-
-**Objective:** Understand network performance through practical testing.
-
-### Metrics
-
-```text
-Throughput
-   │
-   ├── Mbps / Gbps
-   │
-Latency
-   │
-   ├── Minimum
-   ├── Average
-   └── Maximum
-   │
-Packet Loss
-   │
-   └── Percentage
-```
-
-**Status:** 🟡 In Progress
-
----
-
-# 📚 CURRENT LEARNING
 
 <div align="center">
 
-| Area                  | Focus |
-| :-------------------- | :---: |
-| 🌐 Networking         |   🟢  |
-| 🔀 Switching          |   🟢  |
-| 🧭 Routing            |   🟢  |
-| 🔧 Troubleshooting    |   🟢  |
-| 🐧 Linux Networking   |   🟢  |
-| 🐍 Python Automation  |   🟡  |
-| 📊 Network Validation |   🟢  |
-| ☁️ Cloud Networking   |   🟡  |
+## **🎓 EDUCATION**
 
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center">
 
-# 🎓 EDUCATION
-
-## Bachelor of Engineering — B.E.
+### 🎓 Bachelor of Engineering
 
 **GRT Institute of Engineering and Technology**
 
 **Anna University**
 
----
-
-# 🎯 CAREER GOAL
-
-I am looking to grow in the field of:
-
-```text
-NETWORK ENGINEERING
-        │
-        ▼
-NETWORK VALIDATION
-        │
-        ▼
-SERVER NETWORKING
-        │
-        ▼
-NETWORK AUTOMATION
-        │
-        ▼
-CLOUD NETWORKING
-```
-
-### Interested Roles
-
-* 🌐 Network Engineer
-* 🧪 Network Validation Engineer
-* 🔬 Network Test Engineer
-* 🔧 Network Support Engineer
-* 🖥️ Server Networking Engineer
-* 🐍 Network Automation Engineer
+</td>
+</tr>
+</table>
 
 ---
-
-# 📬 LET'S CONNECT
 
 <div align="center">
 
-<a href="mailto:pavankumarbandhu@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## **🎯 CAREER FOCUS**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
 
-<br><br>
+<table align="center">
+<tr>
+<td align="center">🌐<br><b>Network Engineer</b></td>
+<td align="center">🧪<br><b>Network Validation Engineer</b></td>
+<td align="center">🔬<br><b>Network Test Engineer</b></td>
+<td align="center">🖥️<br><b>Server Networking</b></td>
+</tr>
 
-📍 **Bengaluru, Karnataka, India**
+<tr>
+<td align="center">🔧<br><b>Network Troubleshooting</b></td>
+<td align="center">🐧<br><b>Linux Networking</b></td>
+<td align="center">🐍<br><b>Network Automation</b></td>
+<td align="center">📊<br><b>Network Performance</b></td>
+</tr>
+</table>
 
-📧 **[pavankumarbandhu@gmail.com](mailto:pavankumarbandhu@gmail.com)**
+---
 
-📱 **+91 9047215910**
+<div align="center">
+
+## **📈 PROFESSIONAL JOURNEY**
+
+<table>
+<tr>
+<td align="center">
+
+### 🌐
+
+**NETWORKING**
+
+Enterprise Network
+Troubleshooting
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 🧪
+
+**VALIDATION**
+
+Ethernet
+Server Platforms
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 📊
+
+**PERFORMANCE**
+
+Throughput
+Latency
+Stress
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 🐍
+
+**AUTOMATION**
+
+Linux
+Python
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -579,11 +788,38 @@ CLOUD NETWORKING
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:0077B6,100:00C9FF&height=120&section=footer"/>
+## **📬 CONTACT**
 
-### ⭐ NETWORK • VALIDATE • TROUBLESHOOT • AUTOMATE ⭐
+**PAVAN KUMAR B**
 
-**Thanks for visiting my networking portfolio!**
+📍 Bengaluru, Karnataka, India
+
+📧 **[pavankumarbandhu@gmail.com](mailto:pavankumarbandhu@gmail.com)**
+
+📱 **+91 9047215910**
+
+<br>
+
+<a href="mailto:pavankumarbandhu@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+**NETWORKING • VALIDATION • TROUBLESHOOTING • AUTOMATION**
+
+<br>
+
+*Building reliable network and server platforms through validation,
+analysis and automation.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,40:0077B6,80:00C9FF,100:00B894&height=130&section=footer"/>
 
 </div>
 ```
