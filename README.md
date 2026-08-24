@@ -1,8 +1,8 @@
 <div align="center">
 
 <font size="6"><b>PAVAN KUMAR B</b></font><br>
-<font size="3"><b>NETWORKING &amp; VALIDATION ENGINEER</b></font><br>
-<font size="2"><i>Server Networking &nbsp;•&nbsp; Ethernet Validation &nbsp;•&nbsp; Linux &nbsp;•&nbsp; Python Automation</i></font>
+<font size="3"><b>NETWORKING & VALIDATION ENGINEER</b></font><br>
+<font size="2"><i>Engineering reliable networks and server platforms, one root cause at a time</i></font>
 
 <hr>
 
@@ -21,8 +21,12 @@
 
 <font size="4"><b>ABOUT ME</b></font>
 <p style="font-size:13px">
-Networking &amp; Validation Engineer with 3+ years turning complex network and server-platform problems into reliable, well-tested systems. Currently at Intel, validating Ethernet features, benchmarking throughput/latency, and stress-testing server platforms under real-world conditions. I enjoy tracing packet drops and latency spikes through firmware, silicon, and OS layers to the actual root cause — then automating the fix with Python and Linux scripting so it stays fixed. Earlier experience in enterprise networking sharpened my ability to stay calm under pressure and troubleshoot live customer issues. Now looking for a team that values depth over shortcuts.
+Networking &amp; Validation Engineer with 3+ years of experience at Intel Server Platform, working across Ethernet validation, server platform bring-up, throughput/latency analysis, and Linux + Python automation. I focus on taking issues from root-cause analysis to validated resolution, with an emphasis on reliability, repeatability, and reducing manual test effort.
 </p>
+
+<div align="center" style="font-size:13px">
+<b>Identify &nbsp;→&nbsp; Analyze &nbsp;→&nbsp; Root Cause &nbsp;→&nbsp; Resolve &nbsp;→&nbsp; Validate &nbsp;→&nbsp; Deliver</b>
+</div>
 
 <hr>
 
@@ -39,27 +43,21 @@ Networking &amp; Validation Engineer with 3+ years turning complex network and s
 
 <hr>
 
-<font size="4"><b>CORE COMPETENCIES</b></font>
+<font size="4"><b>WHAT I DO</b></font>
 
 <table width="100%" cellpadding="6" border="1" style="border-collapse:collapse;border-color:#cccccc">
 <tr>
-<td valign="top" width="25%" style="font-size:12px"><b>🌐 Fundamentals</b><br>OSI · TCP/IP · IPv4/IPv6<br>TCP/UDP · ARP · ICMP<br>DNS · DHCP · NAT · CIDR</td>
-<td valign="top" width="25%" style="font-size:12px"><b>🔀 Switching</b><br>Ethernet · VLAN · 802.1Q<br>STP/RSTP · EtherChannel<br>LACP · MAC Learning</td>
-<td valign="top" width="25%" style="font-size:12px"><b>🧭 Routing</b><br>Static &amp; Default Routing<br>Inter-VLAN Routing<br>OSPF &amp; BGP Fundamentals</td>
-<td valign="top" width="25%" style="font-size:12px"><b>🔧 Troubleshooting</b><br>Packet Loss · Latency<br>DNS &amp; Routing Issues<br>Root Cause Analysis</td>
+<td valign="top" width="33%" style="font-size:12px"><b>Networking &amp; Switching</b><br>Ethernet · TCP/IP · VLAN<br>802.1Q · STP/RSTP<br>EtherChannel · LACP</td>
+<td valign="top" width="33%" style="font-size:12px"><b>Validation &amp; Testing</b><br>Throughput &amp; Latency Analysis<br>Stress &amp; Reliability Testing<br>Root Cause Analysis</td>
+<td valign="top" width="34%" style="font-size:12px"><b>Systems &amp; Automation</b><br>Linux · BIOS/BMC<br>Python · Shell Scripting<br>JTAG &amp; Trace Tools</td>
 </tr>
 </table>
 
 <hr>
 
 <font size="4"><b>EDUCATION</b></font>
-<p style="font-size:13px"><b>Bachelor of Engineering</b> — GRT Institute of Engineering and Technology, Anna University</p>
-
-<hr>
-
-<font size="4"><b>CAREER FOCUS</b></font>
-<p style="font-size:13px" align="center">
-Network Engineer &nbsp;•&nbsp; Network Validation Engineer &nbsp;•&nbsp; Network Test Engineer &nbsp;•&nbsp; Server Networking Engineer &nbsp;•&nbsp; Network Automation Engineer
+<p style="font-size:13px">
+<b>Bachelor of Engineering</b> — GRT Institute of Engineering and Technology, Anna University
 </p>
 
 <hr>
@@ -106,7 +104,7 @@ Network Engineer &nbsp;•&nbsp; Network Validation Engineer &nbsp;•&nbsp; Net
 
 <font size="4"><b>TECHNICAL TOOLKIT</b></font>
 
-<table width="100%" cellpadding="5" border="1" style="border-collapse:collapse;border-color:#cccccc;font-size:13px">
+<table width="100%" cellpadding="5" border="1" style="border-collapse:collapse;border-color:#cccccc;font-size:12px">
 <tr><td width="20%"><b>Networking</b></td><td>Ethernet · TCP/IP · VLAN · Switching · Routing</td></tr>
 <tr><td><b>Systems</b></td><td>Linux · Server Platforms · BIOS · BMC</td></tr>
 <tr><td><b>Automation</b></td><td>Python · Shell Scripting</td></tr>
@@ -117,14 +115,22 @@ Network Engineer &nbsp;•&nbsp; Network Validation Engineer &nbsp;•&nbsp; Net
 
 <hr>
 
-<div align="center" style="font-size:14px">
-<b>IDENTIFY &nbsp;→&nbsp; ANALYZE &nbsp;→&nbsp; ROOT CAUSE &nbsp;→&nbsp; RESOLVE &nbsp;→&nbsp; VALIDATE &nbsp;→&nbsp; DELIVER</b>
-</div>
+<font size="4"><b>CAREER FOCUS</b></font>
+<p style="font-size:13px" align="center">
+Network Engineer &nbsp;•&nbsp; Network Validation Engineer &nbsp;•&nbsp; Network Test Engineer &nbsp;•&nbsp; Server Networking Engineer &nbsp;•&nbsp; Network Automation Engineer
+</p>
+
+<hr>
+
+<font size="4"><b>PROFESSIONAL STRENGTHS</b></font>
+<p style="font-size:13px" align="center">
+Problem Solving &nbsp;•&nbsp; Multitasking &nbsp;•&nbsp; Pressure Handling &nbsp;•&nbsp; Ownership &nbsp;•&nbsp; Discipline &nbsp;•&nbsp; Teamwork &nbsp;•&nbsp; Adaptability &nbsp;•&nbsp; Continuous Learning
+</p>
 
 <hr>
 
 <div align="center" style="font-size:13px">
-<b>Problem Solving &nbsp;•&nbsp; Multitasking &nbsp;•&nbsp; Pressure Handling &nbsp;•&nbsp; Ownership &nbsp;•&nbsp; Discipline &nbsp;•&nbsp; Teamwork &nbsp;•&nbsp; Adaptability &nbsp;•&nbsp; Continuous Learning</b>
+<i>"I don't just test the network — I understand it, troubleshoot it, validate it, and make it better."</i>
 </div>
 
 <hr>
@@ -132,5 +138,5 @@ Network Engineer &nbsp;•&nbsp; Network Validation Engineer &nbsp;•&nbsp; Net
 <div align="center" style="font-size:13px">
 <b>PAVAN KUMAR B</b><br>
 pavankumarbandhu@gmail.com &nbsp;|&nbsp; +91 9047215910 &nbsp;|&nbsp; Bengaluru, Karnataka, India<br><br>
-<i>"I don't just test the network — I understand it, troubleshoot it, validate it, and make it better."</i>
+<b>NETWORKING</b> &nbsp;•&nbsp; <b>VALIDATION</b> &nbsp;•&nbsp; <b>TROUBLESHOOTING</b> &nbsp;•&nbsp; <b>AUTOMATION</b>
 </div>
