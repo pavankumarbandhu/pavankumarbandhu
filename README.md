@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,50:26D0CE,100:00B894&height=190&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=42&duration=3000&pause=1000&color=1A2980&center=true&vCenter=true&width=700&height=60&lines=PAVAN+KUMAR+B" alt="Pavan Kumar B"/>
+# PAVAN KUMAR B
 
 <h3>🌐 Networking & Validation Engineer</h3>
 <p><i>Server Networking &nbsp;•&nbsp; Ethernet Validation &nbsp;•&nbsp; Linux &nbsp;•&nbsp; Python Automation</i></p>
@@ -23,11 +23,17 @@
 
 <br>
 
-## 👤 Professional Summary
+## 👤 About Me
 
 <table width="100%"><tr><td>
 
-Results-driven **Networking & Validation Engineer** with **3+ years of experience** spanning enterprise networking, Ethernet feature validation, and server-platform bring-up on **Intel server platforms**. Skilled in **throughput/latency analysis, stress & reliability testing, Linux system-level debugging, and Python automation** for streamlining validation workflows. Known for a disciplined **root-cause-driven** approach — isolating complex hardware/firmware/network issues quickly and validating fixes with measurable, repeatable results. Seeking to bring deep protocol knowledge and hands-on lab expertise to a high-performing networking/validation team.
+I'm a **Networking & Validation Engineer** with **3+ years of experience** turning complex network and server-platform problems into reliable, well-tested systems. My work sits at the intersection of **networking, Linux, and hardware validation** — currently at **Intel**, where I validate Ethernet features, benchmark throughput and latency, and stress-test server platforms until they hold up under real-world conditions.
+
+What I enjoy most about this work is the detective side of it — chasing a packet drop or a latency spike through firmware, silicon, and OS layers until I find the *actual* cause, not just the symptom. I pair that instinct with **Python and Linux automation**, so the fixes I validate today become repeatable checks tomorrow.
+
+Before Intel, I cut my teeth in **enterprise networking**, troubleshooting live connectivity and performance issues for real customers — which taught me to stay calm under pressure and communicate clearly when things break.
+
+I'm driven by clean root-cause analysis, measurable results, and a constant push to automate the repetitive so I can focus on the hard problems. Currently looking to bring that mindset to a team that values **depth over shortcuts**.
 
 </td></tr></table>
 
