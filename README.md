@@ -6,7 +6,7 @@
 
 📍 Bengaluru, Karnataka, India  
 📧 pavankumarbandhu@gmail.com  
-📱 +91 9047215910  
+📱 +91 9047215910 
 🔗 LinkedIn: YOUR_LINKEDIN_URL
 
 --
