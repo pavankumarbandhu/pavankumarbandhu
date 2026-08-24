@@ -563,19 +563,11 @@ Python and scripting mindset
 
 <b>PAVAN KUMAR B</b>
 
-<br><br>
+📧 pavankumarbandhu@gmail.com</b>
 
-📧 <b>pavankumarbandhu@gmail.com</b>
+📱 +91 9047215910</b>
 
-&nbsp;&nbsp; | &nbsp;&nbsp;
-
-📱 <b>+91 9047215910</b>
-
-&nbsp;&nbsp; | &nbsp;&nbsp;
-
-📍 <b>Bengaluru, Karnataka, India</b>
-
-<br><br>
+📍 Bengaluru, Karnataka, India</b>
 
 <a href="mailto:pavankumarbandhu@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
