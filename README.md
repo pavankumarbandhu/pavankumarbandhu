@@ -4,12 +4,13 @@
 
 **Server Networking | Ethernet Validation | Linux | Python Automation**
 
-Bengaluru, Karnataka, India  
-pavankumarbandhu@gmail.com | +91 9047215910  
-LinkedIn: YOUR_LINKEDIN_URL | GitHub: YOUR_GITHUB_URL
+📍 Bengaluru, Karnataka, India  
+📧 pavankumarbandhu@gmail.com  
+📱 +91 9047215910  
+🔗 LinkedIn: YOUR_LINKEDIN_URL
 
 
-## 🟦 About Me
+## 🔵 About Me
 
 Networking & Validation Engineer with **3+ years of experience** in server networking, Ethernet validation, Linux troubleshooting, performance testing, and automation.
 
@@ -18,7 +19,7 @@ Currently working on server-platform validation involving Ethernet features, thr
 I enjoy solving complex technical problems by understanding the system from **packet to platform** and finding the actual root cause instead of treating only the symptoms.
 
 
-## 🟩 Technical Skills
+## 🟢 Technical Skills
 
 | Area | Skills |
 |---|---|
@@ -34,7 +35,7 @@ I enjoy solving complex technical problems by understanding the system from **pa
 | Tools | Jira, Excel, Google Workspace |
 
 
-## 🟨 Professional Experience
+## 🟠 Professional Experience
 
 ### Validation Engineer — Intel Server Platform
 
@@ -50,7 +51,6 @@ I enjoy solving complex technical problems by understanding the system from **pa
 - Conduct root cause analysis and track defects using Jira.
 - Prepare validation reports and collaborate with cross-functional engineering teams.
 
-
 ### Networking Engineer — TeamLease Services Limited
 
 **August 2022 – February 2023**
@@ -63,60 +63,38 @@ I enjoy solving complex technical problems by understanding the system from **pa
 - Maintained technical documentation and issue records.
 
 
-## 🟧 Validation & Debugging
+## 🟣 What I Work On
 
-| Area | Focus |
+My work sits at the intersection of:
+
+**Networking + Linux + Firmware + Hardware + Automation**
+
+| Challenge | Approach |
 |---|---|
-| Ethernet | Feature validation, link behavior, NIC testing |
-| Performance | Throughput, latency, packet loss |
-| Stress | Continuous-load and stability testing |
-| Reliability | Long-duration and intermittent failures |
-| Regression | Revalidation across configurations |
-| Debugging | Hardware, firmware, driver, OS and network stack |
-| Root Cause | Failure isolation and evidence-based analysis |
-| Automation | Python and Shell-based test automation |
+| Network Performance | Throughput, latency and packet-loss analysis |
+| Ethernet Issues | Reproduce, isolate and validate failures |
+| Intermittent Failures | Stress testing and failure-pattern analysis |
+| Platform Issues | Hardware, firmware and OS investigation |
+| Repetitive Testing | Python and Shell automation |
+| Debugging | Logs, traces and test-result analysis |
+| Defects | Root-cause analysis and technical documentation |
 
 
-## 🟪 What I Work On
+## 🔷 Engineering Approach
 
-My work sits at the intersection of **Networking + Linux + Firmware + Hardware + Automation**.
-
-| Challenge | Engineering Approach |
-|---|---|
-| Network Performance | Measure throughput, latency and packet loss |
-| Ethernet Failures | Reproduce, isolate and validate link issues |
-| Intermittent Issues | Stress systems and analyze failure patterns |
-| Platform Issues | Investigate hardware, firmware and OS interaction |
-| Repetitive Testing | Build Python and Shell automation |
-| Debugging | Analyze logs, traces and test results |
-| Defects | Identify root cause and document evidence |
+**Understand → Reproduce → Collect Evidence → Isolate → Find Root Cause → Resolve → Automate → Validate → Document**
 
 
-## 🟦 Engineering Approach
+## 🟡 Recognition
 
-**Understand → Reproduce → Collect Evidence → Isolate → Root Cause → Resolve → Automate → Validate → Document**
-
-
-## 🟩 Recognition
-
-### Super Power Points Recognition
+### Super Power Points
 
 Recognized multiple times through **Super Power Points**, an internal recognition program for **top performers**, for strong performance, ownership, technical contribution, and consistent delivery.
 
 This recognition reflects my commitment to taking ownership, solving problems effectively, and delivering beyond expectations.
 
 
-## 🟨 GitHub Projects
-
-| Project | Focus |
-|---|---|
-| Network Engineering Labs | VLAN, STP, LACP, Routing, OSPF and BGP |
-| Ethernet Validation Lab | Ethernet, performance, stress and reliability testing |
-| Linux Networking Lab | Linux networking, routing, ARP, DNS and troubleshooting |
-| Python Network Automation | Network and validation automation |
-
-
-## 🟧 Education
+## 🟢 Education
 
 **Bachelor of Engineering**
 
@@ -126,18 +104,18 @@ Anna University
 **CGPA: 8.7 / 10 | Graduation: 2022**
 
 
-## 🟪 Technology Snapshot
+## 🔵 Technology Snapshot
 
-| Networking | Systems | Automation | Validation |
-|---|---|---|---|
-| Ethernet | Linux | Python | Functional Testing |
-| TCP/IP | BIOS | Shell | Performance Testing |
-| VLAN | BMC | Test Automation | Stress Testing |
-| Routing | Firmware | Log Analysis | Reliability Testing |
-| OSPF / BGP | Server Platforms | Data Processing | Regression Testing |
+| Networking | Systems | Automation |
+|---|---|---|
+| Ethernet | Linux | Python |
+| TCP/IP | BIOS | Shell Scripting |
+| VLAN | BMC | Test Automation |
+| Routing | Firmware | Log Analysis |
+| OSPF / BGP | Server Platforms | Data Processing |
 
 
-## 🟦 Engineering Philosophy
+## 🟠 Engineering Philosophy
 
 > **"Don't just fix the failure. Understand it, prove it, prevent it, and automate it."**
 
@@ -147,13 +125,18 @@ Automation drives efficiency.
 Ownership drives results.**
 
 
-## 🟩 Connect With Me
+## 🟣 Contact
 
-**PAVAN KUMAR B — Networking & Validation Engineer**
+**PAVAN KUMAR B**
 
-Bengaluru, Karnataka, India | pavankumarbandhu@gmail.com | +91 9047215910
+Networking & Validation Engineer
 
-LinkedIn: YOUR_LINKEDIN_URL | GitHub: YOUR_GITHUB_URL
+📍 Bengaluru, Karnataka, India  
+📧 pavankumarbandhu@gmail.com  
+📱 +91 9047215910  
+🔗 LinkedIn: YOUR_LINKEDIN_URL
 
+
+## ⭐
 
 ### **"I don't just test networks — I understand the system, find the root cause, and make it better."**
