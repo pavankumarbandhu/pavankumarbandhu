@@ -5,7 +5,7 @@
 **Server Networking | Ethernet Validation | Linux | Python Automation**
 
 📍 Bengaluru, Karnataka, India  
-📧 pavankumarbandhu@gmail.com 
+📧 pavankumarbandhu@gmail.com  
 📱 +91 9047215910  
 🔗 LinkedIn: YOUR_LINKEDIN_URL
 
