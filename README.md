@@ -1,166 +1,145 @@
-# PAVAN KUMAR B
+<div align="center">
 
-### Networking & Validation Engineer
+<font size="6" color="#1A2980"><b>PAVAN KUMAR B</b></font><br>
+<font size="3" color="#00897B"><b>NETWORKING &amp; VALIDATION ENGINEER</b></font><br>
+<font size="2"><i>Server Networking &nbsp;|&nbsp; Ethernet Validation &nbsp;|&nbsp; Linux &nbsp;|&nbsp; Python Automation</i></font>
 
-**Server Networking • Ethernet Validation • Linux • Python Automation**
+<hr>
 
-📍 Bengaluru, Karnataka, India  
-📧 pavankumarbandhu@gmail.com  
-📱 +91 9047215910 
-🔗 LinkedIn: YOUR_LINKEDIN_URL
+<table width="100%">
+<tr>
+<td align="center" width="25%"><font size="1">📍&nbsp;Bengaluru, Karnataka, India</font></td>
+<td align="center" width="25%"><font size="1">📧&nbsp;pavankumarbandhu@gmail.com</font></td>
+<td align="center" width="25%"><font size="1">📱&nbsp;+91 9047215910</font></td>
+<td align="center" width="25%"><font size="1">🔗&nbsp;LinkedIn: YOUR_LINKEDIN_URL</font></td>
+</tr>
+</table>
 
---
+</div>
 
-## 🟦 ABOUT ME
+<hr>
 
-Networking & Validation Engineer with **3+ years of experience** in server networking, Ethernet validation, Linux troubleshooting, performance testing, and automation.
+<font size="3" color="#1A2980"><b>🔵 ABOUT ME</b></font>
+<p style="font-size:12px">
+Networking &amp; Validation Engineer with 3+ years of experience in server networking, Ethernet validation, Linux troubleshooting, performance testing, and automation. Currently working on server-platform validation involving Ethernet features, throughput and latency testing, stress and reliability testing, server bring-up, BIOS/BMC configuration, and hardware, firmware, driver, and OS-level debugging. I enjoy solving complex technical problems by understanding the system from packet to platform and finding the actual root cause instead of treating only the symptoms.
+</p>
 
-Experienced in **server-platform validation, Ethernet features, throughput & latency testing, stress testing, server bring-up, BIOS/BMC configuration, firmware validation, and hardware/driver/OS debugging**.
+<hr>
 
-I approach problems from **packet to platform**, focusing on evidence-based debugging and root-cause analysis.
+<font size="3" color="#00897B"><b>🟢 TECHNICAL SKILLS</b></font>
 
----
+<table width="100%" cellpadding="4" border="1" style="border-collapse:collapse;border-color:#cccccc;font-size:11px">
+<tr><td width="18%"><b>Networking</b></td><td>TCP/IP, IPv4/IPv6, Ethernet, VLAN, STP, RSTP, LACP</td></tr>
+<tr><td><b>Routing</b></td><td>Static Routing, Inter-VLAN Routing, OSPF, BGP Fundamentals</td></tr>
+<tr><td><b>Protocols</b></td><td>TCP, UDP, ARP, ICMP, DNS, DHCP, NAT</td></tr>
+<tr><td><b>Validation</b></td><td>Functional, Performance, Stress, Reliability, Regression</td></tr>
+<tr><td><b>Linux</b></td><td>Networking, CLI, Routing, Logs, Troubleshooting</td></tr>
+<tr><td><b>Server</b></td><td>Server Bring-up, BIOS, BMC, Firmware</td></tr>
+<tr><td><b>Automation</b></td><td>Python, Shell Scripting, Test Automation</td></tr>
+<tr><td><b>Debugging</b></td><td>JTAG, Trace Tools, Hardware/Firmware/OS Debugging</td></tr>
+<tr><td><b>Virtualization</b></td><td>VMware, KVM</td></tr>
+<tr><td><b>Tools</b></td><td>Jira, Excel, Google Workspace</td></tr>
+</table>
 
-## 🟩 TECHNICAL SKILLS
+<hr>
 
-| **Area** | **Skills** |
-|---|---|
-| **Networking** | TCP/IP, IPv4/IPv6, Ethernet, VLAN, STP, RSTP, LACP |
-| **Routing** | Static Routing, Inter-VLAN Routing, OSPF, BGP Fundamentals |
-| **Protocols** | TCP, UDP, ARP, ICMP, DNS, DHCP, NAT |
-| **Validation** | Functional, Performance, Stress, Reliability, Regression |
-| **Linux** | CLI, Networking, Routing, Logs, Troubleshooting |
-| **Server** | Server Bring-up, BIOS, BMC, Firmware |
-| **Automation** | Python, Shell Scripting, Test Automation |
-| **Debugging** | JTAG, Trace Tools, Hardware/Firmware/OS Debugging |
-| **Virtualization** | VMware, KVM |
-| **Tools** | Jira, Excel, Google Workspace |
+<font size="3" color="#1A2980"><b>🟠 PROFESSIONAL EXPERIENCE</b></font>
 
----
+<p style="font-size:13px"><b>Validation Engineer — Intel Server Platform</b> &nbsp;|&nbsp; <i>August 2023 – Present</i></p>
 
-## 🟧 PROFESSIONAL EXPERIENCE
+<ul style="font-size:12px">
+<li>Perform Ethernet and networking feature validation across server-platform NICs</li>
+<li>Execute throughput, latency, stress, reliability, and regression testing</li>
+<li>Troubleshoot issues across silicon, firmware, driver, and Linux OS layers</li>
+<li>Investigate intermittent hardware and firmware failures</li>
+<li>Develop Python and Shell automation for validation activities</li>
+<li>Support server bring-up, BIOS/BMC configuration, and firmware flashing</li>
+<li>Perform JTAG and trace-based platform debugging</li>
+<li>Conduct root cause analysis and track defects using Jira</li>
+<li>Prepare validation reports and collaborate with cross-functional engineering teams</li>
+</ul>
 
-### Validation Engineer — Intel Server Platform
-**August 2023 – Present**
+<p style="font-size:13px"><b>Networking Engineer — TeamLease Services Limited</b> &nbsp;|&nbsp; <i>August 2022 – February 2023</i></p>
 
-- Perform **Ethernet and networking feature validation** across server-platform NICs.
-- Execute **throughput, latency, stress, reliability, and regression testing**.
-- Troubleshoot issues across **silicon, firmware, driver, and Linux OS layers**.
-- Investigate intermittent hardware and firmware failures.
-- Develop **Python and Shell automation** for validation activities.
-- Support **server bring-up, BIOS/BMC configuration, and firmware flashing**.
-- Perform **JTAG and trace-based platform debugging**.
-- Conduct **root-cause analysis** and track defects using Jira.
-- Prepare validation reports and collaborate with cross-functional engineering teams.
+<ul style="font-size:12px">
+<li>Configured and monitored enterprise network infrastructure</li>
+<li>Troubleshot connectivity, routing, latency, and packet-loss issues</li>
+<li>Supported internal and customer network environments</li>
+<li>Managed service requests and incidents within SLA requirements</li>
+<li>Coordinated with customers and internal technical teams</li>
+<li>Maintained technical documentation and issue records</li>
+</ul>
 
-### Networking Engineer — TeamLease Services Limited
-**August 2022 – February 2023**
+<hr>
 
-- Configured and monitored enterprise network infrastructure.
-- Troubleshot **connectivity, routing, latency, and packet-loss issues**.
-- Supported internal and customer network environments.
-- Managed incidents and service requests within SLA requirements.
-- Coordinated with customers and internal technical teams.
-- Maintained technical documentation and issue records.
+<font size="3" color="#00897B"><b>🔷 ENGINEERING APPROACH</b></font>
 
----
+<div align="center" style="font-size:12px">
+<b>Understand → Reproduce → Collect Evidence → Isolate → Find Root Cause → Resolve → Automate → Validate → Document</b>
+</div>
 
-## 🟪 WHAT I WORK ON
+<hr>
 
-My work sits at the intersection of:
+<font size="3" color="#1A2980"><b>🟡 RECOGNITION</b></font>
 
-### **Networking + Linux + Firmware + Hardware + Automation**
+<p style="font-size:12px">
+<b>Super Power Points</b> — Recognized multiple times through Super Power Points, an internal recognition program for top performers, for strong performance, ownership, technical contribution, and consistent delivery. This recognition reflects my commitment to taking ownership, solving problems effectively, and delivering beyond expectations.
+</p>
 
-| **Challenge** | **Engineering Approach** |
-|---|---|
-| **Network Performance** | Throughput, latency & packet-loss analysis |
-| **Ethernet Issues** | Reproduce → isolate → validate |
-| **Intermittent Failures** | Stress testing & failure-pattern analysis |
-| **Platform Issues** | Hardware, firmware & OS investigation |
-| **Repetitive Testing** | Python & Shell automation |
-| **Debugging** | Logs, traces & test-result analysis |
-| **Defects** | Root-cause analysis & documentation |
+<hr>
 
----
+<font size="3" color="#00897B"><b>🟢 EDUCATION</b></font>
 
-## 🟦 ENGINEERING APPROACH
+<p style="font-size:12px">
+<b>Bachelor of Engineering</b><br>
+GRT Institute of Engineering and Technology, Anna University<br>
+CGPA: 8.7 / 10 &nbsp;|&nbsp; Graduation: 2022
+</p>
 
-### **Understand → Reproduce → Collect Evidence → Isolate → Find Root Cause → Resolve → Automate → Validate → Document**
+<hr>
 
-I follow a structured engineering approach rather than treating only the visible symptom.
+<font size="3" color="#1A2980"><b>🟣 WHAT I WORK ON</b></font>
 
-**Observe** → Understand the failure  
-**Reproduce** → Confirm the issue consistently  
-**Collect** → Gather logs, traces and test data  
-**Isolate** → Narrow down the failure layer  
-**Analyze** → Identify the root cause  
-**Resolve** → Apply and verify the fix  
-**Automate** → Reduce repetitive effort  
-**Validate** → Confirm functionality and stability  
-**Document** → Capture the learning for future use
+<p style="font-size:12px">
+My work sits at the intersection of: <b>Networking + Linux + Firmware + Hardware + Automation</b>
+</p>
 
----
+<table width="100%" cellpadding="4" border="1" style="border-collapse:collapse;border-color:#cccccc;font-size:11px">
+<tr><td width="25%"><b>Network Performance</b></td><td>Throughput, latency and packet-loss analysis</td></tr>
+<tr><td><b>Ethernet Issues</b></td><td>Reproduce, isolate and validate failures</td></tr>
+<tr><td><b>Intermittent Failures</b></td><td>Stress testing and failure-pattern analysis</td></tr>
+<tr><td><b>Platform Issues</b></td><td>Hardware, firmware and OS investigation</td></tr>
+<tr><td><b>Repetitive Testing</b></td><td>Python and Shell automation</td></tr>
+<tr><td><b>Debugging</b></td><td>Logs, traces and test-result analysis</td></tr>
+<tr><td><b>Defects</b></td><td>Root-cause analysis and technical documentation</td></tr>
+</table>
 
-## 🟨 RECOGNITION
+<hr>
 
-### ⭐ Super Power Points
+<font size="3" color="#00897B"><b>🔵 TECHNOLOGY SNAPSHOT</b></font>
 
-Recognized multiple times through **Super Power Points**, an internal recognition program for **top performers**, for strong performance, ownership, technical contribution, and consistent delivery.
+<table width="100%" cellpadding="4" border="1" style="border-collapse:collapse;border-color:#cccccc;font-size:11px">
+<tr>
+<td valign="top" width="33%"><b>Networking</b><br>Ethernet · TCP/IP · VLAN · Routing · OSPF/BGP</td>
+<td valign="top" width="33%"><b>Systems</b><br>Linux · BIOS · BMC · Firmware · Server Platforms</td>
+<td valign="top" width="34%"><b>Automation</b><br>Python · Shell Scripting · Test Automation · Log Analysis · Data Processing</td>
+</tr>
+</table>
 
-This recognition reflects my commitment to:
+<hr>
 
-**Ownership • Technical Excellence • Problem Solving • Consistent Delivery**
+<font size="3" color="#1A2980"><b>🟠 ENGINEERING PHILOSOPHY</b></font>
 
----
+<div align="center" style="font-size:12px">
+<i>"Don't just fix the failure. Understand it, prove it, prevent it, and automate it."</i><br><br>
+<b>Curiosity drives investigation. Evidence drives decisions. Automation drives efficiency. Ownership drives results.</b>
+</div>
 
-## 🟩 EDUCATION
+<hr>
 
-### Bachelor of Engineering
-
-**GRT Institute of Engineering and Technology**  
-Anna University
-
-**CGPA: 8.7 / 10**  
-**Graduation: 2022**
-
----
-
-## 🟦 TECHNOLOGY SNAPSHOT
-
-| **NETWORKING** | **SYSTEMS** | **AUTOMATION** |
-|---|---|---|
-| Ethernet | Linux | Python |
-| TCP/IP | BIOS | Shell Scripting |
-| VLAN | BMC | Test Automation |
-| Routing | Firmware | Log Analysis |
-| OSPF / BGP | Server Platforms | Data Processing |
-
----
-
-## 🟧 ENGINEERING PHILOSOPHY
-
-> ### **"Don't just fix the failure. Understand it, prove it, prevent it, and automate it."**
-
-**Curiosity drives investigation.**  
-**Evidence drives decisions.**  
-**Automation drives efficiency.**  
-**Ownership drives results.**
-
----
-
-## 🟪 CONTACT
-
-### PAVAN KUMAR B
-
-**Networking & Validation Engineer**
-
-📍 Bengaluru, Karnataka, India  
-📧 pavankumarbandhu@gmail.com  
-📱 +91 9047215910  
-🔗 LinkedIn: YOUR_LINKEDIN_URL
-
----
-
-# ⭐
-
-## **"I don't just test networks — I understand the system, find the root cause, and make it better."**
+<div align="center" style="font-size:12px">
+<b>PAVAN KUMAR B</b> &nbsp;|&nbsp; Networking &amp; Validation Engineer<br>
+pavankumarbandhu@gmail.com &nbsp;|&nbsp; +91 9047215910 &nbsp;|&nbsp; Bengaluru, Karnataka, India &nbsp;|&nbsp; LinkedIn: YOUR_LINKEDIN_URL
+<br><br>
+<i>"I don't just test networks — I understand the system, find the root cause, and make it better."</i>
+</div>
