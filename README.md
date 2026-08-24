@@ -2,111 +2,132 @@
 
 ### Networking & Validation Engineer
 
-**Server Networking | Ethernet Validation | Linux | Python Automation**
+**Server Networking • Ethernet Validation • Linux • Python Automation**
 
 📍 Bengaluru, Karnataka, India  
 📧 pavankumarbandhu@gmail.com  
 📱 +91 9047215910  
 🔗 LinkedIn: YOUR_LINKEDIN_URL
 
+---
 
-## 🔵 About Me
+## 🟦 ABOUT ME
 
 Networking & Validation Engineer with **3+ years of experience** in server networking, Ethernet validation, Linux troubleshooting, performance testing, and automation.
 
-Currently working on server-platform validation involving Ethernet features, throughput and latency testing, stress and reliability testing, server bring-up, BIOS/BMC configuration, and hardware, firmware, driver, and OS-level debugging.
+Experienced in **server-platform validation, Ethernet features, throughput & latency testing, stress testing, server bring-up, BIOS/BMC configuration, firmware validation, and hardware/driver/OS debugging**.
 
-I enjoy solving complex technical problems by understanding the system from **packet to platform** and finding the actual root cause instead of treating only the symptoms.
+I approach problems from **packet to platform**, focusing on evidence-based debugging and root-cause analysis.
 
+---
 
-## 🟢 Technical Skills
+## 🟩 TECHNICAL SKILLS
 
-| Area | Skills |
+| **Area** | **Skills** |
 |---|---|
-| Networking | TCP/IP, IPv4/IPv6, Ethernet, VLAN, STP, RSTP, LACP |
-| Routing | Static Routing, Inter-VLAN Routing, OSPF, BGP Fundamentals |
-| Protocols | TCP, UDP, ARP, ICMP, DNS, DHCP, NAT |
-| Validation | Functional, Performance, Stress, Reliability, Regression |
-| Linux | Networking, CLI, Routing, Logs, Troubleshooting |
-| Server | Server Bring-up, BIOS, BMC, Firmware |
-| Automation | Python, Shell Scripting, Test Automation |
-| Debugging | JTAG, Trace Tools, Hardware/Firmware/OS Debugging |
-| Virtualization | VMware, KVM |
-| Tools | Jira, Excel, Google Workspace |
+| **Networking** | TCP/IP, IPv4/IPv6, Ethernet, VLAN, STP, RSTP, LACP |
+| **Routing** | Static Routing, Inter-VLAN Routing, OSPF, BGP Fundamentals |
+| **Protocols** | TCP, UDP, ARP, ICMP, DNS, DHCP, NAT |
+| **Validation** | Functional, Performance, Stress, Reliability, Regression |
+| **Linux** | CLI, Networking, Routing, Logs, Troubleshooting |
+| **Server** | Server Bring-up, BIOS, BMC, Firmware |
+| **Automation** | Python, Shell Scripting, Test Automation |
+| **Debugging** | JTAG, Trace Tools, Hardware/Firmware/OS Debugging |
+| **Virtualization** | VMware, KVM |
+| **Tools** | Jira, Excel, Google Workspace |
 
+---
 
-## 🟠 Professional Experience
+## 🟧 PROFESSIONAL EXPERIENCE
 
 ### Validation Engineer — Intel Server Platform
-
 **August 2023 – Present**
 
-- Perform Ethernet and networking feature validation across server-platform NICs.
-- Execute throughput, latency, stress, reliability, and regression testing.
-- Troubleshoot issues across silicon, firmware, driver, and Linux OS layers.
+- Perform **Ethernet and networking feature validation** across server-platform NICs.
+- Execute **throughput, latency, stress, reliability, and regression testing**.
+- Troubleshoot issues across **silicon, firmware, driver, and Linux OS layers**.
 - Investigate intermittent hardware and firmware failures.
-- Develop Python and Shell automation for validation activities.
-- Support server bring-up, BIOS/BMC configuration, and firmware flashing.
-- Perform JTAG and trace-based platform debugging.
-- Conduct root cause analysis and track defects using Jira.
+- Develop **Python and Shell automation** for validation activities.
+- Support **server bring-up, BIOS/BMC configuration, and firmware flashing**.
+- Perform **JTAG and trace-based platform debugging**.
+- Conduct **root-cause analysis** and track defects using Jira.
 - Prepare validation reports and collaborate with cross-functional engineering teams.
 
 ### Networking Engineer — TeamLease Services Limited
-
 **August 2022 – February 2023**
 
 - Configured and monitored enterprise network infrastructure.
-- Troubleshot connectivity, routing, latency, and packet-loss issues.
+- Troubleshot **connectivity, routing, latency, and packet-loss issues**.
 - Supported internal and customer network environments.
-- Managed service requests and incidents within SLA requirements.
+- Managed incidents and service requests within SLA requirements.
 - Coordinated with customers and internal technical teams.
 - Maintained technical documentation and issue records.
 
+---
 
-## 🟣 What I Work On
+## 🟪 WHAT I WORK ON
 
 My work sits at the intersection of:
 
-**Networking + Linux + Firmware + Hardware + Automation**
+### **Networking + Linux + Firmware + Hardware + Automation**
 
-| Challenge | Approach |
+| **Challenge** | **Engineering Approach** |
 |---|---|
-| Network Performance | Throughput, latency and packet-loss analysis |
-| Ethernet Issues | Reproduce, isolate and validate failures |
-| Intermittent Failures | Stress testing and failure-pattern analysis |
-| Platform Issues | Hardware, firmware and OS investigation |
-| Repetitive Testing | Python and Shell automation |
-| Debugging | Logs, traces and test-result analysis |
-| Defects | Root-cause analysis and technical documentation |
+| **Network Performance** | Throughput, latency & packet-loss analysis |
+| **Ethernet Issues** | Reproduce → isolate → validate |
+| **Intermittent Failures** | Stress testing & failure-pattern analysis |
+| **Platform Issues** | Hardware, firmware & OS investigation |
+| **Repetitive Testing** | Python & Shell automation |
+| **Debugging** | Logs, traces & test-result analysis |
+| **Defects** | Root-cause analysis & documentation |
 
+---
 
-## 🔷 Engineering Approach
+## 🟦 ENGINEERING APPROACH
 
-**Understand → Reproduce → Collect Evidence → Isolate → Find Root Cause → Resolve → Automate → Validate → Document**
+### **Understand → Reproduce → Collect Evidence → Isolate → Find Root Cause → Resolve → Automate → Validate → Document**
 
+I follow a structured engineering approach rather than treating only the visible symptom.
 
-## 🟡 Recognition
+**Observe** → Understand the failure  
+**Reproduce** → Confirm the issue consistently  
+**Collect** → Gather logs, traces and test data  
+**Isolate** → Narrow down the failure layer  
+**Analyze** → Identify the root cause  
+**Resolve** → Apply and verify the fix  
+**Automate** → Reduce repetitive effort  
+**Validate** → Confirm functionality and stability  
+**Document** → Capture the learning for future use
 
-### Super Power Points
+---
+
+## 🟨 RECOGNITION
+
+### ⭐ Super Power Points
 
 Recognized multiple times through **Super Power Points**, an internal recognition program for **top performers**, for strong performance, ownership, technical contribution, and consistent delivery.
 
-This recognition reflects my commitment to taking ownership, solving problems effectively, and delivering beyond expectations.
+This recognition reflects my commitment to:
 
+**Ownership • Technical Excellence • Problem Solving • Consistent Delivery**
 
-## 🟢 Education
+---
 
-**Bachelor of Engineering**
+## 🟩 EDUCATION
 
-GRT Institute of Engineering and Technology  
+### Bachelor of Engineering
+
+**GRT Institute of Engineering and Technology**  
 Anna University
 
-**CGPA: 8.7 / 10 | Graduation: 2022**
+**CGPA: 8.7 / 10**  
+**Graduation: 2022**
 
+---
 
-## 🔵 Technology Snapshot
+## 🟦 TECHNOLOGY SNAPSHOT
 
-| Networking | Systems | Automation |
+| **NETWORKING** | **SYSTEMS** | **AUTOMATION** |
 |---|---|---|
 | Ethernet | Linux | Python |
 | TCP/IP | BIOS | Shell Scripting |
@@ -114,29 +135,32 @@ Anna University
 | Routing | Firmware | Log Analysis |
 | OSPF / BGP | Server Platforms | Data Processing |
 
+---
 
-## 🟠 Engineering Philosophy
+## 🟧 ENGINEERING PHILOSOPHY
 
-> **"Don't just fix the failure. Understand it, prove it, prevent it, and automate it."**
+> ### **"Don't just fix the failure. Understand it, prove it, prevent it, and automate it."**
 
-**Curiosity drives investigation.  
-Evidence drives decisions.  
-Automation drives efficiency.  
-Ownership drives results.**
+**Curiosity drives investigation.**  
+**Evidence drives decisions.**  
+**Automation drives efficiency.**  
+**Ownership drives results.**
 
+---
 
-## 🟣 Contact
+## 🟪 CONTACT
 
-**PAVAN KUMAR B**
+### PAVAN KUMAR B
 
-Networking & Validation Engineer
+**Networking & Validation Engineer**
 
 📍 Bengaluru, Karnataka, India  
 📧 pavankumarbandhu@gmail.com  
 📱 +91 9047215910  
 🔗 LinkedIn: YOUR_LINKEDIN_URL
 
+---
 
-## ⭐
+# ⭐
 
-### **"I don't just test networks — I understand the system, find the root cause, and make it better."**
+## **"I don't just test networks — I understand the system, find the root cause, and make it better."**
