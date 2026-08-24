@@ -7,9 +7,6 @@
 Bengaluru, Karnataka, India  
 pavankumarbandhu@gmail.com | +91 9047215910  
 LinkedIn: YOUR_LINKEDIN_URL | GitHub: YOUR_GITHUB_URL
-
----
-
 ## About Me
 
 Networking & Validation Engineer with **3+ years of experience** in server networking, Ethernet validation, Linux troubleshooting, performance testing, and automation.
@@ -17,9 +14,6 @@ Networking & Validation Engineer with **3+ years of experience** in server netwo
 Currently working on server-platform validation involving Ethernet features, throughput and latency testing, stress testing, server bring-up, BIOS/BMC configuration, and hardware, firmware, driver, and OS-level debugging.
 
 **Approach:** Understand → Reproduce → Analyze → Root Cause → Resolve → Validate
-
----
-
 ## Technical Skills
 
 | Area | Skills |
@@ -34,9 +28,6 @@ Currently working on server-platform validation involving Ethernet features, thr
 | Debugging | JTAG, Trace Tools, Hardware/Firmware/OS Debugging |
 | Virtualization | VMware, KVM |
 | Tools | Jira, Excel, Google Workspace |
-
----
-
 ## Professional Experience
 
 ### Validation Engineer — Intel Server Platform
@@ -61,9 +52,6 @@ Currently working on server-platform validation involving Ethernet features, thr
 - Managed service requests and incidents within SLA requirements.
 - Coordinated with customers and internal technical teams.
 - Maintained technical documentation and issue records.
-
----
-
 ## Validation Expertise
 
 | Area | Focus |
@@ -76,9 +64,6 @@ Currently working on server-platform validation involving Ethernet features, thr
 | Debugging | Hardware, firmware, driver, OS, network stack |
 | RCA | Failure isolation and root-cause analysis |
 | Automation | Python and Shell-based test automation |
-
----
-
 ## Linux & Server Skills
 
 | Area | Knowledge |
@@ -89,52 +74,23 @@ Currently working on server-platform validation involving Ethernet features, thr
 | Server | Bring-up, platform validation, system configuration |
 | Debugging | JTAG, trace tools, hardware and firmware analysis |
 
----
-
-## GitHub Projects
-
-| Project | Focus |
-|---|---|
-| Network Engineering Labs | VLAN, STP, LACP, Routing, OSPF, BGP |
-| Ethernet Validation Lab | Ethernet, performance, stress and reliability testing |
-| Linux Networking Lab | Linux networking, routing, ARP, DNS, troubleshooting |
-| Python Network Automation | Network and validation automation |
-
----
-
 ## Education
 
 **Bachelor of Engineering**  
 GRT Institute of Engineering and Technology, Anna University
-
 **CGPA: 8.7 / 10 | Graduation: 2022**
-
----
-
 ## Professional Strengths
 
 **Problem Solving | Troubleshooting | Analytical Thinking | Multitasking | Working Under Pressure | Ownership | Discipline | Teamwork | Adaptability | Continuous Learning**
-
----
-
 ## Career Focus
 
 **Network Engineer | Network Validation Engineer | Network Test Engineer | Server Networking Engineer | Network Automation Engineer | Ethernet Validation Engineer**
-
----
-
 ## Current Learning
 
 **Advanced Networking | Linux Internals | Python Automation | Network Testing | AI for Network Engineering | Server & Ethernet Architecture**
-
----
-
 ## Engineering Mindset
 
 **Understand the problem → Reproduce it → Find the root cause → Fix it → Automate it → Validate it → Document it**
-
----
-
 ## Contact
 
 **PAVAN KUMAR B**  
